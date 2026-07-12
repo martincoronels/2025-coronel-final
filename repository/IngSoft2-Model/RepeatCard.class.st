@@ -6,12 +6,6 @@ Class {
 }
 
 { #category : 'testing' }
-RepeatCard >> disableAllianceIn: aGame [
-	
-	^ self.
-]
-
-{ #category : 'testing' }
 RepeatCard >> useFrom: aCardOwner to: aCardTarget in: aGame [
 
 	aGame applyLastEffectTo: aCardTarget.

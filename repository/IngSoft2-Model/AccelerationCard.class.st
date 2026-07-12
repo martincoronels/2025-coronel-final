@@ -6,12 +6,6 @@ Class {
 }
 
 { #category : 'testing' }
-AccelerationCard >> disableAllianceIn: aGame [
-	
-	^ self.
-]
-
-{ #category : 'testing' }
 AccelerationCard >> effect [
 
 	^ 1

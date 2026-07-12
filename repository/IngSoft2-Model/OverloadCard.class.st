@@ -6,12 +6,6 @@ Class {
 }
 
 { #category : 'as yet unclassified' }
-OverloadCard >> disableAllianceIn: aGame [
-	
-	^ self.
-]
-
-{ #category : 'as yet unclassified' }
 OverloadCard >> effect [
 
 	^ -2.

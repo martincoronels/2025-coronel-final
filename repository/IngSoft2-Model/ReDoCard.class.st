@@ -6,12 +6,6 @@ Class {
 }
 
 { #category : 'testing' }
-ReDoCard >> disableAllianceIn: aGame [
-	
-	^ self.
-]
-
-{ #category : 'testing' }
 ReDoCard >> useFrom: aCardOwner to: aCardTarget in: aGame [
 
 	| lastCardPlayed |
