@@ -1,13 +1,13 @@
 # Ingenieria del Software II - Template
 
-![GHA Status](https://github.com/uca-argentina/2025-los-pollos-objetos/actions/workflows/GHA.yml/badge.svg)
-[![Coverage Status](https://coveralls.io/repos/github/uca-argentina/2025-los-pollos-objetos/badge.svg?branch=master)](https://coveralls.io/github/uca-argentina/2025-los-pollos-objetos?branch=master)
+![GHA Status](https://github.com/martincoronels/2025-coronel-final/actions/workflows/GHA.yml/badge.svg)
+[![Coverage Status](https://coveralls.io/repos/github/martincoronels/2025-coronel-final/badge.svg?branch=master)](https://coveralls.io/github/martincoronels/2025-coronel-final?branch=master)
 
-## Metacello
+## Metacello 
 
 ```smalltalk
 Metacello new
    baseline: 'IngSoft2';
-   githubUser: 'uca-argentina' project: '2025-los-pollos-objetos' commitish: 'master' path: 'repository';
+   githubUser: 'martincoronels' project: '2025-coronel-final' commitish: 'master' path: 'repository';
    load: 'development'.
 ```
