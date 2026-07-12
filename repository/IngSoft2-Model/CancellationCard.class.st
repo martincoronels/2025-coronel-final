@@ -15,12 +15,6 @@ CancellationCard >> cancellationWhenCardToCancelIsAAllianceCardOf: aGame [
 ]
 
 { #category : 'as yet unclassified' }
-CancellationCard >> disableAllianceIn: aGame [
-	
-	^ self.
-]
-
-{ #category : 'as yet unclassified' }
 CancellationCard >> selectedCard: aCard [
 
 	cardToCancel := aCard.
